@@ -13,4 +13,4 @@ windows only
 
 doesn't work in "console off" mode for some reason :(
 
-![alt text](https://i.postimg.cc/VNzm5TBg/mt.png)
+![alt text](https://i.postimg.cc/MKsF1LSt/mt.png)
